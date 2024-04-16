@@ -1,0 +1,5 @@
+TERMINALS a b e d
+NONTERMINALS S A B
+S -> AB
+A -> a | e | EPS
+B -> b | d | EPS
